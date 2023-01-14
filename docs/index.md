@@ -1,10 +1,13 @@
 ---
 layout: default
+title: Andrew's Personal Website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./about.html).
+[Link to another page](./about.md).
+
+<!-- [Link to another page](./about.html). -->
 
 There should be whitespace between paragraphs.
 
